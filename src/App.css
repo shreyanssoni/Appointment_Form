@@ -4,8 +4,12 @@
 
 .form {
   align-items: center;
-  margin: 5vh auto;
-  max-width: 500px;
+  margin: 6vh auto;
+  max-width: 600px;
+}
+
+.font-weight-bold {
+  font-size: 17px;
 }
 
 .short {
